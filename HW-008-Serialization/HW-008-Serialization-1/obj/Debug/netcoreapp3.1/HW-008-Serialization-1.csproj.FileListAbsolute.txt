@@ -1,0 +1,11 @@
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\HW-008-Serialization\HW-008-Serialization-1\bin\Debug\netcoreapp3.1\HW-008-Serialization-1.exe
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\HW-008-Serialization\HW-008-Serialization-1\bin\Debug\netcoreapp3.1\HW-008-Serialization-1.deps.json
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\HW-008-Serialization\HW-008-Serialization-1\bin\Debug\netcoreapp3.1\HW-008-Serialization-1.runtimeconfig.json
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\HW-008-Serialization\HW-008-Serialization-1\bin\Debug\netcoreapp3.1\HW-008-Serialization-1.runtimeconfig.dev.json
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\HW-008-Serialization\HW-008-Serialization-1\bin\Debug\netcoreapp3.1\HW-008-Serialization-1.dll
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\HW-008-Serialization\HW-008-Serialization-1\bin\Debug\netcoreapp3.1\HW-008-Serialization-1.pdb
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\HW-008-Serialization\HW-008-Serialization-1\obj\Debug\netcoreapp3.1\HW-008-Serialization-1.csprojAssemblyReference.cache
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\HW-008-Serialization\HW-008-Serialization-1\obj\Debug\netcoreapp3.1\HW-008-Serialization-1.AssemblyInfoInputs.cache
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\HW-008-Serialization\HW-008-Serialization-1\obj\Debug\netcoreapp3.1\HW-008-Serialization-1.AssemblyInfo.cs
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\HW-008-Serialization\HW-008-Serialization-1\obj\Debug\netcoreapp3.1\HW-008-Serialization-1.dll
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\HW-008-Serialization\HW-008-Serialization-1\obj\Debug\netcoreapp3.1\HW-008-Serialization-1.pdb
