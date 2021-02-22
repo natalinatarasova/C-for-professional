@@ -1,0 +1,8 @@
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookLibrary\bin\Debug\netstandard2.0\NotebookLibrary.deps.json
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookLibrary\bin\Debug\netstandard2.0\NotebookLibrary.dll
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookLibrary\bin\Debug\netstandard2.0\NotebookLibrary.pdb
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookLibrary\obj\Debug\netstandard2.0\NotebookLibrary.csprojAssemblyReference.cache
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookLibrary\obj\Debug\netstandard2.0\NotebookLibrary.AssemblyInfoInputs.cache
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookLibrary\obj\Debug\netstandard2.0\NotebookLibrary.AssemblyInfo.cs
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookLibrary\obj\Debug\netstandard2.0\NotebookLibrary.dll
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookLibrary\obj\Debug\netstandard2.0\NotebookLibrary.pdb

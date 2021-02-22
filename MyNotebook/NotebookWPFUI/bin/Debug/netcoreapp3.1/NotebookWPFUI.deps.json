@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NotebookWPFUI/1.0.0": {
+        "dependencies": {
+          "NotebookDB": "1.0.0",
+          "NotebookLibrary": "1.0.0"
+        },
+        "runtime": {
+          "NotebookWPFUI.dll": {}
+        }
+      },
+      "NotebookDB/1.0.0": {
+        "dependencies": {
+          "NotebookLibrary": "1.0.0"
+        },
+        "runtime": {
+          "NotebookDB.dll": {}
+        }
+      },
+      "NotebookLibrary/1.0.0": {
+        "runtime": {
+          "NotebookLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotebookWPFUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NotebookDB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NotebookLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

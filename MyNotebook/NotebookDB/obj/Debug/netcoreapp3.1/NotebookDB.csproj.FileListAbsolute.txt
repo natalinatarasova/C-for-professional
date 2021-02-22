@@ -1,0 +1,14 @@
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\bin\Debug\netcoreapp3.1\NotebookDB.exe
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\bin\Debug\netcoreapp3.1\NotebookDB.deps.json
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\bin\Debug\netcoreapp3.1\NotebookDB.runtimeconfig.json
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\bin\Debug\netcoreapp3.1\NotebookDB.runtimeconfig.dev.json
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\bin\Debug\netcoreapp3.1\NotebookDB.dll
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\bin\Debug\netcoreapp3.1\NotebookDB.pdb
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\bin\Debug\netcoreapp3.1\NotebookLibrary.dll
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\bin\Debug\netcoreapp3.1\NotebookLibrary.pdb
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\obj\Debug\netcoreapp3.1\NotebookDB.csprojAssemblyReference.cache
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\obj\Debug\netcoreapp3.1\NotebookDB.AssemblyInfoInputs.cache
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\obj\Debug\netcoreapp3.1\NotebookDB.AssemblyInfo.cs
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\obj\Debug\netcoreapp3.1\NotebookDB.csproj.CopyComplete
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\obj\Debug\netcoreapp3.1\NotebookDB.dll
+C:\Users\natal\Documents\C#CourseProfessional\008_Serialization_02012021\MyNotebook\NotebookDB\obj\Debug\netcoreapp3.1\NotebookDB.pdb
